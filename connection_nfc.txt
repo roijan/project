@@ -1,0 +1,8 @@
+sda-------->CE0
+SCK-------->SCLK
+MOSI------->MOSI
+MISO------->MISO
+IRQ-------->GPIO24
+GND-------->GND
+RST-------->GPIO25
+3.3-------->^_^
